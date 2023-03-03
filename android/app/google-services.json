@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998311902174",
+    "project_id": "raven-companion",
+    "storage_bucket": "raven-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998311902174:android:2fd2cdb882815b64aefb4f",
+        "android_client_info": {
+          "package_name": "com.masterminds.raven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998311902174-1fifuu0nvjjhclr86i05l9r36b5fedef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmr6__hPNFbO-ROFj5IiNlvRj24qxQCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998311902174-1fifuu0nvjjhclr86i05l9r36b5fedef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
